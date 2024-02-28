@@ -71,6 +71,16 @@ git config --global user.email "email@anda.com"
 
 Selamat! Anda telah berhasil membuat proyek Hello World pertama Anda dengan Git dan, jika memilih, telah mempushnya ke GitHub.
 
+
+## Git Push Tutorial
+
+- git add .
+- git commit -m "feat : initial commit"
+- git push -u origin main
+
+## Git request Tutorial
+- git clone https://github.com/McGee314/ICT-2024.git
+
 ## Rangkuman
 
 Dalam lab ini, Anda telah belajar bagaimana:
